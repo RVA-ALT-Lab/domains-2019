@@ -1608,3 +1608,7 @@ CUSTOM
   float: left;
   padding: 15px;
 }
+
+.reveal h2.left{
+  text-align: left !important;
+}
