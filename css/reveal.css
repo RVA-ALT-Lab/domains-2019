@@ -1609,6 +1609,6 @@ CUSTOM
   padding: 15px;
 }
 
-.reveal h2.left{
+.reveal h1.left, .reveal h2.left, .reveal h3.left{
   text-align: left !important;
 }
