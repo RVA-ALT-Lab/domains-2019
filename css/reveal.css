@@ -1612,3 +1612,8 @@ CUSTOM
 .reveal h1.left, .reveal h2.left, .reveal h3.left{
   text-align: left !important;
 }
+
+.reveal section img.clean-img {
+  border: none;
+  box-shadow: none;
+}
